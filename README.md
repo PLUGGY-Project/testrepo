@@ -1,3 +1,3 @@
 # testrepo
 
-Just a test repo.
+Really just a test repo.
